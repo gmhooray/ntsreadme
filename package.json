@@ -1,0 +1,20 @@
+{
+  "name": "nts-readme",
+  "version": "0.0.1",
+  "description": "npm install nts-readme. That's all. What a simple.",
+  "author": {
+      "name": "UIT",
+      "url": "http://wit.nts-corp.com"
+  },
+  "main": "uit.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+      "easy",
+      "quick",
+      "simple",
+      "Markup Project",
+      "readme maker"
+  ]
+}
