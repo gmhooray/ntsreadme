@@ -6,13 +6,7 @@
       "name": "UIT",
       "url": "http://wit.nts-corp.com"
   },
-  "main": "uit.js",
-  "scripts": {
-      "install": "node ./lib/copyMan.js",
-      "start": "npm run build && node ./lib/copyMan.js",
-      "start-dev": "npm run build && node ./lib/copyMan.js",
-      "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "index.js",
   "keywords": [
       "easy",
       "quick",
