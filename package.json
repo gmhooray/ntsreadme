@@ -1,17 +1,30 @@
 {
-  "name": "nts-readme",
-  "version": "0.0.1",
-  "description": "npm install nts-readme. That's all. What a simple.",
-  "author": {
-      "name": "UIT",
-      "url": "http://wit.nts-corp.com"
-  },
-  "main": "index.js",
-  "keywords": [
-      "easy",
-      "quick",
-      "simple",
-      "Markup Project",
-      "readme maker"
-  ]
+    "name": "nts-readme",
+    "version": "0.0.1",
+    "description": "npm install nts-readme. That's all. What a simple.",
+    "author": {
+        "name": "UIT",
+        "url": "http://wit.nts-corp.com"
+    },
+    "main": "index.js",
+    "bin": {
+        "nts-readme": "index.js"
+    },
+    "engines": {
+        "node": ">= 0.10.0"
+    },
+    "files": [
+        "LICENSE-UIT",
+        "Readme.md",
+        "index.js",
+        "lib/",
+        "templates/"
+    ],
+    "keywords": [
+        "easy",
+        "quick",
+        "simple",
+        "Markup Project",
+        "readme maker"
+    ]
 }
