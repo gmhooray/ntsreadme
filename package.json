@@ -6,7 +6,6 @@
         "name": "UIT",
         "url": "http://wit.nts-corp.com"
     },
-    "main": "index.js",
     "bin": {
         "nts-readme": "index.js"
     },
